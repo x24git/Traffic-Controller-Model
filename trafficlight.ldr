@@ -1,0 +1,241 @@
+0 Name: Traffic Light
+0 Author: LegoCAD
+0 !LDCAD GROUP_NXT [ids=1] [nrs=-1]
+0 !LDCAD GROUP_DEF [topLevel=true] [LID=0] [GID=G7J8SyHb1OQ] [name=Group 1] [center=0 0 0]
+0 !LDCAD GROUP_DEF [topLevel=true] [LID=1] [GID=ILxGl8ONSGe] [name=Group 2] [center=0 0 0]
+0 !LDCAD GROUP_DEF [topLevel=true] [LID=2] [GID=EZm014zEKkA] [name=Group 3] [center=0 0 0]
+0 !LDCAD GROUP_DEF [topLevel=true] [LID=3] [GID=BpOEFLio8uj] [name=Group 4] [center=0 183 0]
+0 !LDCAD GROUP_DEF [topLevel=true] [LID=4] [GID=FyxCJSXYQjX] [name=Group 5] [center=0 0 0]
+1 0 29 -58 88 1 0 0 0 1 0 0 0 1 607p01.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=9]
+1 0 -191 -334 -92 0 1 0 0 0 -1 -1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=23]
+1 0 -211 -82 -92 0 0 1 0 1 0 -1 0 0 3941.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=22]
+1 0 -211 -106 -92 0 0 1 0 1 0 -1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=21]
+1 0 -211 -130 -92 0 0 1 0 1 0 -1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=20]
+1 0 -211 -154 -92 0 0 1 0 1 0 -1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=19]
+1 0 -211 -178 -92 0 0 1 0 1 0 -1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=18]
+1 0 -211 -202 -92 0 0 1 0 1 0 -1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=13]
+1 0 -211 -322 -92 0 0 1 0 1 0 -1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=17]
+1 0 -211 -226 -92 0 0 1 0 1 0 -1 0 0 3941.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=16]
+1 0 -211 -250 -92 0 0 1 0 1 0 -1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=15]
+1 0 -211 -274 -92 0 0 1 0 1 0 -1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=14]
+1 0 -211 -298 -92 0 0 1 0 1 0 -1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=0] [nrs=3]
+1 226 -28 -254 -92 0 -1 0 -1 0 0 0 0 -1 4070.dat
+0 !LDCAD GROUP_NXT [ids=0] [nrs=4]
+1 226 -28 -274 -92 0 -1 0 -1 0 0 0 0 -1 4070.dat
+0 !LDCAD GROUP_NXT [ids=0] [nrs=5]
+1 226 -28 -294 -92 0 -1 0 -1 0 0 0 0 -1 4070.dat
+0 !LDCAD GROUP_NXT [ids=0] [nrs=-1]
+1 226 -28 -314 -92 0 -1 0 0 0 1 -1 0 0 4070.dat
+0 !LDCAD GROUP_NXT [ids=0] [nrs=6]
+1 0 -52 -284 -92 0 -1 0 -1 0 0 0 0 -1 3710.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=2]
+1 0 -38 -344 -92 0 0 1 0 1 0 -1 0 0 87087.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=4]
+1 0 -72 -334 -92 0 1 0 0 0 -1 -1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=5]
+1 0 -96 -334 -92 0 1 0 0 0 -1 -1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=6]
+1 0 -120 -334 -92 0 1 0 0 0 -1 -1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=7]
+1 0 -144 -334 -92 0 1 0 0 0 -1 -1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=8]
+1 0 -168 -334 -92 0 1 0 0 0 -1 -1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=3]
+1 0 -38 -351 -92 0 0 1 0 1 0 -1 0 0 3070b.dat
+0 !LDCAD GROUP_NXT [ids=0] [nrs=7]
+1 0 -20 -304 -92 0 -1 0 -1 0 0 0 0 -1 3069a.dat
+0 !LDCAD GROUP_NXT [ids=0] [nrs=2]
+1 0 -20 -264 -92 0 -1 0 -1 0 0 0 0 -1 3069a.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=11]
+1 0 -221 -346 -92 0 0 1 0 1 0 -1 0 0 3004.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=10]
+1 0 -201 -346 -92 0 0 1 0 1 0 -1 0 0 3700.dat
+0 !LDCAD GROUP_NXT [ids=1] [nrs=12]
+1 0 -211 -353 -92 0 0 1 0 1 0 -1 0 0 14769.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=-1]
+1 226 209 -314 31 1 0 0 0 0 1 0 -1 0 4070.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=2]
+1 0 209 -334 -132 1 0 0 0 0 -1 0 1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=3]
+1 0 209 -82 -152 1 0 0 0 1 0 0 0 1 3941.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=4]
+1 0 209 -106 -152 1 0 0 0 1 0 0 0 1 6143.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=5]
+1 0 209 -130 -152 1 0 0 0 1 0 0 0 1 6143.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=6]
+1 0 209 -154 -152 1 0 0 0 1 0 0 0 1 6143.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=7]
+1 0 209 -178 -152 1 0 0 0 1 0 0 0 1 6143.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=8]
+1 0 209 -202 -152 1 0 0 0 1 0 0 0 1 6143.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=9]
+1 0 209 -322 -152 1 0 0 0 1 0 0 0 1 6143.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=10]
+1 0 209 -226 -152 1 0 0 0 1 0 0 0 1 3941.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=11]
+1 0 209 -250 -152 1 0 0 0 1 0 0 0 1 6143.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=12]
+1 0 209 -274 -152 1 0 0 0 1 0 0 0 1 6143.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=13]
+1 0 209 -298 -152 1 0 0 0 1 0 0 0 1 6143.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=14]
+1 226 209 -254 31 0 0 1 -1 0 0 0 -1 0 4070.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=15]
+1 226 209 -274 31 0 0 1 -1 0 0 0 -1 0 4070.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=16]
+1 226 209 -294 31 0 0 1 -1 0 0 0 -1 0 4070.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=17]
+1 0 209 -284 7 0 0 1 -1 0 0 0 -1 0 3710.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=18]
+1 0 209 -344 21 1 0 0 0 1 0 0 0 1 87087.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=19]
+1 0 209 -334 -13 1 0 0 0 0 -1 0 1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=20]
+1 0 209 -334 -37 1 0 0 0 0 -1 0 1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=21]
+1 0 209 -334 -61 1 0 0 0 0 -1 0 1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=22]
+1 0 209 -334 -85 1 0 0 0 0 -1 0 1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=23]
+1 0 209 -334 -109 1 0 0 0 0 -1 0 1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=24]
+1 0 209 -351 21 1 0 0 0 1 0 0 0 1 3070b.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=25]
+1 0 209 -304 39 0 0 1 -1 0 0 0 -1 0 3069a.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=26]
+1 0 209 -264 39 0 0 1 -1 0 0 0 -1 0 3069a.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=27]
+1 0 209 -346 -162 1 0 0 0 1 0 0 0 1 3004.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=28]
+1 0 209 -346 -142 1 0 0 0 1 0 0 0 1 3700.dat
+0 !LDCAD GROUP_NXT [ids=2] [nrs=29]
+1 0 209 -353 -152 1 0 0 0 1 0 0 0 1 14769.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=-1]
+1 226 -152 -314 146 -1 0 0 0 0 1 0 1 0 4070.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=2]
+1 0 -152 -334 309 -1 0 0 0 0 -1 0 -1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=3]
+1 0 -152 -82 329 -1 0 0 0 1 0 0 0 -1 3941.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=4]
+1 0 -152 -106 329 -1 0 0 0 1 0 0 0 -1 6143.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=5]
+1 0 -152 -130 329 -1 0 0 0 1 0 0 0 -1 6143.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=6]
+1 0 -152 -154 329 -1 0 0 0 1 0 0 0 -1 6143.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=7]
+1 0 -152 -178 329 -1 0 0 0 1 0 0 0 -1 6143.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=8]
+1 0 -152 -202 329 -1 0 0 0 1 0 0 0 -1 6143.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=9]
+1 0 -152 -322 329 -1 0 0 0 1 0 0 0 -1 6143.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=10]
+1 0 -152 -226 329 -1 0 0 0 1 0 0 0 -1 3941.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=11]
+1 0 -152 -250 329 -1 0 0 0 1 0 0 0 -1 6143.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=12]
+1 0 -152 -274 329 -1 0 0 0 1 0 0 0 -1 6143.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=13]
+1 0 -152 -298 329 -1 0 0 0 1 0 0 0 -1 6143.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=14]
+1 226 -152 -254 146 0 0 -1 -1 0 0 0 1 0 4070.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=15]
+1 226 -152 -274 146 0 0 -1 -1 0 0 0 1 0 4070.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=16]
+1 226 -152 -294 146 0 0 -1 -1 0 0 0 1 0 4070.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=17]
+1 0 -152 -284 170 0 0 -1 -1 0 0 0 1 0 3710.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=18]
+1 0 -152 -344 156 -1 0 0 0 1 0 0 0 -1 87087.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=19]
+1 0 -152 -334 190 -1 0 0 0 0 -1 0 -1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=20]
+1 0 -152 -334 214 -1 0 0 0 0 -1 0 -1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=21]
+1 0 -152 -334 238 -1 0 0 0 0 -1 0 -1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=22]
+1 0 -152 -334 262 -1 0 0 0 0 -1 0 -1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=23]
+1 0 -152 -334 286 -1 0 0 0 0 -1 0 -1 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=24]
+1 0 -152 -351 156 -1 0 0 0 1 0 0 0 -1 3070b.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=25]
+1 0 -152 -304 138 0 0 -1 -1 0 0 0 1 0 3069a.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=26]
+1 0 -152 -264 138 0 0 -1 -1 0 0 0 1 0 3069a.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=27]
+1 0 -152 -346 339 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=28]
+1 0 -152 -346 319 -1 0 0 0 1 0 0 0 -1 3700.dat
+0 !LDCAD GROUP_NXT [ids=3] [nrs=29]
+1 0 -152 -353 329 -1 0 0 0 1 0 0 0 -1 14769.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=-1]
+1 226 88 -316 268 0 1 0 0 0 1 1 0 0 4070.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=2]
+1 0 251 -336 268 0 -1 0 0 0 -1 1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=3]
+1 0 271 -84 268 0 0 -1 0 1 0 1 0 0 3941.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=4]
+1 0 271 -108 268 0 0 -1 0 1 0 1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=5]
+1 0 271 -132 268 0 0 -1 0 1 0 1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=6]
+1 0 271 -156 268 0 0 -1 0 1 0 1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=7]
+1 0 271 -180 268 0 0 -1 0 1 0 1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=8]
+1 0 271 -204 268 0 0 -1 0 1 0 1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=9]
+1 0 271 -324 268 0 0 -1 0 1 0 1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=10]
+1 0 271 -228 268 0 0 -1 0 1 0 1 0 0 3941.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=11]
+1 0 271 -252 268 0 0 -1 0 1 0 1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=12]
+1 0 271 -276 268 0 0 -1 0 1 0 1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=13]
+1 0 271 -300 268 0 0 -1 0 1 0 1 0 0 6143.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=14]
+1 226 88 -256 268 0 1 0 -1 0 0 0 0 1 4070.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=15]
+1 226 88 -276 268 0 1 0 -1 0 0 0 0 1 4070.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=16]
+1 226 88 -296 268 0 1 0 -1 0 0 0 0 1 4070.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=17]
+1 0 112 -286 268 0 1 0 -1 0 0 0 0 1 3710.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=18]
+1 0 98 -346 268 0 0 -1 0 1 0 1 0 0 87087.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=19]
+1 0 132 -336 268 0 -1 0 0 0 -1 1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=20]
+1 0 156 -336 268 0 -1 0 0 0 -1 1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=21]
+1 0 180 -336 268 0 -1 0 0 0 -1 1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=22]
+1 0 204 -336 268 0 -1 0 0 0 -1 1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=23]
+1 0 228 -336 268 0 -1 0 0 0 -1 1 0 0 3062b.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=24]
+1 0 98 -353 268 0 0 -1 0 1 0 1 0 0 3070b.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=25]
+1 0 80 -306 268 0 1 0 -1 0 0 0 0 1 3069a.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=26]
+1 0 80 -266 268 0 1 0 -1 0 0 0 0 1 3069a.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=27]
+1 0 281 -348 268 0 0 -1 0 1 0 1 0 0 3004.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=28]
+1 0 261 -348 268 0 0 -1 0 1 0 1 0 0 3700.dat
+0 !LDCAD GROUP_NXT [ids=4] [nrs=29]
+1 0 271 -355 268 0 0 -1 0 1 0 1 0 0 14769.dat
