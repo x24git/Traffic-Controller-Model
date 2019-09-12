@@ -16,16 +16,16 @@ The System Abides by the following rules:
 
 5)	If the infrared photodiode is activated, the traffic signals indicating green should immediately complete step 2, disregarding any cool down that may be in effect. The perpendicular direction that is indicating red should remain red. There is also a 10 second cool down for this override and once completed, signal will return to normal operation.
 
-#Design
-##Schematic: 
+# Design
+## Schematic: 
 ![alt text][schematic]
 
-##3D Design: 
+## 3D Design: 
 See [trafficlight.stl](trafficlight.stl)
 
 ![alt text][3d]
 
-##Final Design:
+## Final Design:
 ![alt text][actual]
 
 [schematic]: traffic%20light_schem.jpg "Traffic Light Controller Schematic"
